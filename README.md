@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Iniya Rajan  
 B.Tech 3rd Year | AI & DS Enthusiast  
-<img align="right" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
+<img align="right" width="300" src="C:/Users/Iniya Rajan/Downloads/techwomen.gif" />
 
 - 🔭 Here's my [portfolio](https://iniyarajan06.github.io)  
 - 🌱 I’m currently learning and teaching **DSA** and integrating **AI** into my workflow  
