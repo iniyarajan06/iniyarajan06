@@ -25,16 +25,14 @@ B.Tech 3rd Year | AI & DS Enthusiast
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/> 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/> 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
 <img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+
 
 
 ### 🛠 IDE & Tools I Use  
