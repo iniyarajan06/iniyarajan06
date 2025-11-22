@@ -1,13 +1,64 @@
-- 👋 Hi, I’m @iniyarajan06
-- 👀 I’m interested in Data science  ...
-- 🌱 I’m currently learning AI/DS ...
-- 💞️ I’m looking to collaborate on every one's projects...
-- 📫 How to reach me iniyarajan01@gmail.com...
-- 😄 Pronouns: she/her...
-- ⚡ Fun fact: python is just a snake
-- Hi, I’m Iniya Rajan,
-I’m a B.Tech student in Artificial Intelligence and Data Science with a passion for building innovative solutions that combine creativity and technology. My work revolves around solving real-world problems using AI/DS, crafting dynamic web experiences, and extracting meaningful insights from data.
+## Hi there 👋 I'm Iniya Rajan  
+B.Tech 3rd Year | AI & DS Enthusiast  
+<img align="right" width="300" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" />
 
-Whether it’s developing cutting-edge AI systems, designing intuitive user experiences, or diving deep into data, I thrive on challenges and love creating impactful solutions.
+- 🔭 Here's my [portfolio](https://iniyarajan06.github.io)  
+- 🌱 I’m currently learning and teaching **DSA** and integrating **AI** into my workflow  
+- 💼 Previously worked / learning at:  
+  - [Infosys Springboard](https://www.infosys.com/)  
+  - Academic projects related to AI & ML  
+- ⚡ Fun fact: I know Japanese  
 
+---
 
+### 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iniya-rajan-182000289/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iniyarajan06)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/iniya01/)  
+
+---
+
+### 💻 Languages & Frameworks I Code In  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>  
+
+---
+
+### 🛠 IDE & Tools I Use  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/git.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
+<img height="40" width="40" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  
+<img height="40" width="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  
+<img height="40" width="40" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>  
+
+---
+
+### 🖥 My Workspace Specs  
+<img height="30" src="https://img.shields.io/badge/Laptop-Macbook_Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/GPU-NVIDIA_GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/CPU-AMD_Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
+
+---
+
+### 📊 GitHub Stats  
+![Iniya's GitHub stats](https://github-readme-stats.vercel.app/api?username=iniyarajan06&theme=dark&show_icons=true)  
+[![Leetcode Stats](https://leetcard.jacoblin.cool/iniya01?ext=contest&theme=dark)](https://leetcode.com/u/iniya01/)  
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iniyarajan06&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/iniyarajan06)
