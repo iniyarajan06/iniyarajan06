@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Iniya Rajan  
 B.Tech 3rd Year | AI & DS Enthusiast  
-<img align="right" width="300" src="C:/Users/Iniya Rajan/Downloads/techwomen.gif" />
+<img align="right" width="300" src= "https://github.com/iniyarajan06/iniyarajan06/blob/main/techwomen.gif" />
 
 - 🔭 Here's my [portfolio](https://iniyarajan06.github.io)  
-- 🌱 I’m currently learning and teaching **DSA** and integrating **AI** into my workflow  
-- 💼 Previously worked / learning at:  
-  - [Infosys Springboard](https://www.infosys.com/)  
-  - Academic projects related to AI & ML  
+- 🌱 I’m currently learning and exploring **AI & Data Science**, while applying these skills to hands-on projects. 
+- 💼 Internship / Learning Experience:  
+  - Intern at [Infosys Springboard](https://www.infosys.com/)  
+  - Academic projects related to **AI & ML** 
 - ⚡ Fun fact: I know Japanese  
 
 ---
@@ -18,25 +18,24 @@ B.Tech 3rd Year | AI & DS Enthusiast
 
 ---
 
-### 💻 Languages & Frameworks I Code In  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>  
+### 💻 Languages & Frameworks I Code In
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/python.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/sass.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
+<img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 
----
 
 ### 🛠 IDE & Tools I Use  
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
@@ -45,14 +44,13 @@ B.Tech 3rd Year | AI & DS Enthusiast
 <img height="40" width="40" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  
 <img height="40" width="40" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>  
 <img height="40" width="40" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
-<img height="40" width="40" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/>  
-<img height="40" width="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>  
-<img height="40" width="40" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>  
+
+
 
 ---
 
 ### 🖥 My Workspace Specs  
-<img height="30" src="https://img.shields.io/badge/Laptop-Macbook_Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  
+<img height="30" src="https://img.shields.io/badge/Laptop-ASUS_-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/>  
 <img height="30" src="https://img.shields.io/badge/GPU-NVIDIA_GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  
 <img height="30" src="https://img.shields.io/badge/CPU-AMD_Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>  
 
